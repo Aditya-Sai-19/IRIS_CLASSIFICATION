@@ -9,6 +9,9 @@ This project uses a **Decision Tree Classifier** model trained with **Scikit-lea
 **Live URL:** [Iris Flower Classification Web App](https://iris-classification-i93t.onrender.com/)
 
 ---
+![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/IRIS_CLASSIFICATION/main/project-screenshot.png)
+
+---
 
 ## ✨ Features
 - **Interactive UI:** A clean and user-friendly interface for inputting flower measurements.
